@@ -7,7 +7,7 @@
 #include <QGridLayout>
 #include <QVBoxLayout>
 #include <QLabel>
-
+#include <QApplication>
 #include "gameboard.h"
 #include "neuron.h"
 
